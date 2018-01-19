@@ -1,6 +1,4 @@
-# Project Title
-
-Convert Salesforce 15 character IDs to 18 character version in PHP
+# Convert Salesforce 15 character IDs to 18 character version in PHP
 
 ## Testing
 
